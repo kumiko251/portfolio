@@ -14,9 +14,10 @@ body {
 }
 
 .nga {
-	width: 250px;
-	border: medium black;
-	object-position: right;
+	width: 400px;
+	position: relative;
+	left: 300px;
+	padding-left: 20px;
 }
 
 
